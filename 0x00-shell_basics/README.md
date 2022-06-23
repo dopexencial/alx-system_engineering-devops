@@ -1,2 +1,1 @@
-#!/bin/bash
-#This is the readme of a repository
+script that prints the absolute path name of the current working directory.
